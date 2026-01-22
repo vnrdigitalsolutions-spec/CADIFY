@@ -1,1 +1,19 @@
+:root {
+  --bg:#0b0e16;
+  --text:#ffffff;
+  --muted:#b6bdd6;
+  --primary:#6d7cff;
+}
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body {
+  font-family: Inter, system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
 
