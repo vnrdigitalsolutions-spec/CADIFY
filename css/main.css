@@ -1,1 +1,10 @@
+@import url("base.css");
+@import url("layout.css");
+@import url("components.css");
+
+@import url("sections/hero.css");
+@import url("sections/logos.css");
+@import url("sections/features.css");
+@import url("sections/courses.css");
+@import url("sections/cta.css");
 
